@@ -1,2 +1,2 @@
-# Data Wrangling With SQL
- Udacity NanoDegree Data Wrangling with SQL.
+# wrangle-openstreetmap-sql
+ Udacity NanoDegree Data Wrangling with SQL
